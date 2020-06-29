@@ -47,16 +47,16 @@
             <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
             <version>2.1.1.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+            <version>2.3.0.RELEASE</version>
+        </dependency>
 
         <!--    本地仓库    -->
         <dependency>
             <groupId>com.xin</groupId>
             <artifactId>study-spring-boot-web-starter</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.xin</groupId>
-            <artifactId>study-spring-boot-swagger-starter</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
