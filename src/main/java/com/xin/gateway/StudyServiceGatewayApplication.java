@@ -14,5 +14,4 @@ public class StudyServiceGatewayApplication {
     public static void main(String[] args) {
         SpringApplication.run(StudyServiceGatewayApplication.class, args);
     }
-
 }
